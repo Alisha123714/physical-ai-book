@@ -1,0 +1,24 @@
+{
+  "id": "capstone",
+  "title": "Capstone Project — Autonomous Humanoid",
+  "description": "window.translateToUrdu()} style={{ padding \"pointer\" }}>",
+  "source": "@site/docs/capstone.md",
+  "sourceDirName": ".",
+  "slug": "/capstone",
+  "permalink": "/docs/capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "capstone",
+    "title": "Capstone Project — Autonomous Humanoid",
+    "sidebar_label": "Capstone"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VLA",
+    "permalink": "/docs/module-4-vla"
+  }
+}

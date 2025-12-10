@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac",
+  "title": "Module 3 — AI-Robot Brain (NVIDIA Isaac)",
+  "description": "window.translateToUrdu()} style={{ padding \"pointer\" }}>",
+  "source": "@site/docs/module-3-isaac.md",
+  "sourceDirName": ".",
+  "slug": "/module-3-isaac",
+  "permalink": "/docs/module-3-isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "module-3-isaac",
+    "title": "Module 3 — AI-Robot Brain (NVIDIA Isaac)",
+    "sidebar_label": "Isaac"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation",
+    "permalink": "/docs/module-2-simulation"
+  },
+  "next": {
+    "title": "VLA",
+    "permalink": "/docs/module-4-vla"
+  }
+}
